@@ -1,3 +1,7 @@
-for (let i = 0; i < 5; i++) {
-  console.log('Hello world!');
+function App() {
+  return (
+    <></>
+  )
 }
+
+export default App
